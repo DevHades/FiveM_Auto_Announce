@@ -8,8 +8,8 @@ Announcement_Prefix = "^*^7(^1Broadcast^7)^r "
 
 -- Messages To Send To All Users
 Announcement_Messages = {
-	"Dont Forget To Join The Discord! ^1|| ^7discord.gg/BKmawVJ", 
-	"Donate For Amazing Rewards! ^1|| ^7www.patreon.com/Hrizonrp",
+	"Dont Forget To Join The Discord! ^1|| ^7discord.gg", 
+	"Donate For Amazing Rewards! ^1|| ^7",
 	"Server Reboot @ Both 7am & 7pm^1!"
 }
 
